@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UpStoxApp</string>
+    <string name="current_value">Current Value*</string>
+    <string name="total_investments">Total Investments*</string>
+    <string name="today_s_profit_loss"><![CDATA[Today\'s Profit & Loss]]></string>
+    <string name="profit_and_loss">Profit and Loss*</string>
+    <string name="profit_amp_loss"><![CDATA[Profit & Loss*]]></string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+</resources>
